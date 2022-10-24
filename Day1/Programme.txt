@@ -1,3 +1,4 @@
 Course Day 1
 - Programme
 - Python installation
+- Github use 
