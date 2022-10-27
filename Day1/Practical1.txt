@@ -1,0 +1,35 @@
+Exemple:
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+
+C:\Users\LENOVO\OneDrive\Desktop\Python training\Python training - sprint1>git add .
+
+C:\Users\LENOVO\OneDrive\Desktop\Python training\Python training - sprint1>git commit -m "sprint1-Day1"
+[main fd0999d] print1-Day1
+ 1 file changed, 1 insertion(+)
+
+C:\Users\LENOVO\OneDrive\Desktop\Python training\Python training - sprint1>git push
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (4/4), 343 bytes | 171.00 KiB/s, done.
+Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/kuetemartin/Python-training-sprint1.git
+   fb3dae1..fd0999d  main -> main
+
+C:\Users\LENOVO\OneDrive\Desktop\Python training\Python training - sprint1> 
+
+Homework 
+Invite de commande
+a=5
+b=6
+c=11
+d=a+b-c
+a=d-a
+c=c-a+b
+b=c-b+a
+a?
+b?
+c?
+d?  

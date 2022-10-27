@@ -2,3 +2,31 @@ Course Day 1
 - Programme
 - Python installation
 - Github use 
+Commands
+. Initialiser un depot: git init
+. git add . : preparer a la sauvegarde (C:\Users\LENOVO\OneDrive\Desktop\Python training\Python training - sprint1>git add .)
+. git commit -m ": Sauvergarder le depot en local
+. git put : Envoyer le depot en ligne dans le repository git
+Day2 
+. Pycharm qui est un IDE/Editeur de texte dediee a python
+. Configuration de Pycharm et creation nouveau projet
+. Formater le code / ecriture du code python et identation 
+. conditions simples :  If , 
+. condition composee : If, elif , Else
+. embrication des conditions. 
+
+Day3
+. Concanation
+. Structures de donnees
+-Chaine de caracteres: 
++ entier : 12
++ Chaine de caracteres '12'
++ float
++ caracteres : hello my world
+boleen : vrai ou faux
+  
+. une chaine de caracteres par exple: '12', ou 'hello my world ....est un tableau de caracteres
+
+
+Homework:
+
