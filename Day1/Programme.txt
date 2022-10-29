@@ -7,6 +7,7 @@ Commands
 . git add . : preparer a la sauvegarde (C:\Users\LENOVO\OneDrive\Desktop\Python training\Python training - sprint1>git add .)
 . git commit -m ": Sauvergarder le depot en local
 . git put : Envoyer le depot en ligne dans le repository git
+. git log : pour voir toutes les initiations faites
 Day2 
 . Pycharm qui est un IDE/Editeur de texte dediee a python
 . Configuration de Pycharm et creation nouveau projet

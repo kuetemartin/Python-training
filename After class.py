@@ -85,7 +85,7 @@ while (i< len(jours2)):
 
 
 
-# Homework : Creer un tableau avec if ---boucler avec personnes [['jean', 200000, 43ans, 'homme' 'A'], ['marie', 300000, 25ans, 'femme', 'C']
+# Homework : Creer un tableau avec if ---boucler avec personnes [['jean', 200000, 43, 'homme' 'A'], ['marie', 300000, 25ans, 'femme', 'C']
 
 grade = "A"
 salaire = 300000
