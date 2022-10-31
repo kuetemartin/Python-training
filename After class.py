@@ -21,9 +21,10 @@ jours2[3]='Jezdi'
 #print(jours + jours2)
 
 i = 0
-while(i < len(jours2)):
+while(i < 2 ):
+    #print(i > ln(personnes)):
     #print(jours2[0:7])
-    i = i + 1
+    i = i + 2
 
 
 salaire = 2000000
@@ -58,7 +59,7 @@ while(i < len(personnes)):
             if(personnes[i][2] >= 40):
                 if(personnes[i][1] > 200000):
                     Y = personnes[i][1] - X1
-                    print (Y)
+                    #print (Y)
         else:
             Y = personnes[i][1] - X1
     elif (personnes[i][4] == 'B'):
@@ -73,13 +74,14 @@ while(i < len(personnes)):
         Y = personnes[i][1] - X1
 
     else:
-        print ('Error de grade !!!!!!.... verifier SVP....')
-    print ("Le salaire de " + personnes[i][0] + " est de : " + str(Y))
+        i = i + 1
+        #print ('Error de grade !!!!!!.... verifier SVP....')
+    #print ("Le salaire de " + personnes[i][0] + " est de : " + str(Y))
     i = i + 1
 
-print('##################################################')
+#print('##################################################')
 
-print(personnes)
+#print(personnes2)
 def salaires(personnes2):
     i = 0
     while (i < len(personnes)):
@@ -92,7 +94,7 @@ def salaires(personnes2):
                 if (personnes[i][2] >= 40):
                     if (personnes[i][1] > 200000):
                         Y = personnes[i][1] - X1
-                        print (Y)
+                        #print (Y)
             else:
                 Y = personnes[i][1] - X1
         elif (personnes[i][4] == 'B'):
@@ -107,9 +109,10 @@ def salaires(personnes2):
             Y = personnes[i][1] - X1
 
         else:
-            print ('Error de grade !!!!!!.... verifier SVP....')
-        print ("Le salaire de " + personnes[i][0] + " est de : " + str(Y))
+            i = i + 1
+            #print ('Error de grade !!!!!!.... verifier SVP....')
+        #print ("Le salaire de " + personnes[i][0] + " est de : " + str(Y))
         i = i + 1
 
 salaires(personnes2)
-print('#######################################################')
+#print('#######################################################')

@@ -33,3 +33,12 @@ a?
 b?
 c?
 d?  
+
+Homework Day5
+Apres avoir lister salaire et details des personnes,
+ecrire un script qui demande de choisir un utilisateur ou un personne parmi nos personnels. 
+Si l on choisit un nombre entre 1 et 15 on affiche les lignes comme trouveee 
+sinon on affiche Error ou le nombre est invalide.
+
+
+
